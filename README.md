@@ -135,16 +135,6 @@ Includes:
 
 The package wraps Firebase Auth behind app-friendly abstractions so the consuming app does not need to depend directly on Firebase implementation details everywhere.
 
-### Additional Packages
-
-The repository also contains additional reusable packages under `Lobont Packages`:
-
-* `AdView`
-* `ForesterDomainKit`
-* `ForesterServiceKit`
-
-These packages include reusable modules for ad views, domain logic, service gateways, Firebase-backed services, HealthKit-related services, StoreKit-related services, and test support.
-
 ## Tech Stack
 
 * Swift
@@ -177,10 +167,6 @@ FSRPackages
 ├── SHNavigation
 ├── SHUtils
 ├── ShroomHubDesignLibrary
-└── Lobont Packages
-    ├── AdView
-    ├── ForesterDomainKit
-    └── ForesterServiceKit
 ```
 
 ## Architecture
